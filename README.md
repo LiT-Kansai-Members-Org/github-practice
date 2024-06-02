@@ -1,5 +1,6 @@
 # GitHub道場🥋
 GitHubの使い方をマスターしよう
+[がっしー先生のZenn](https://zenn.dev/penguin4731/books/11bee5738e367f)もおすすめです
 
 ## 進め方
 ### 1, このリポジトリをクローンする 
