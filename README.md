@@ -27,4 +27,4 @@ $ git clone https://github.com/HackUOsaka/GitHub-practice.git
 無事変更できたら終わりです！ ***お疲れ様でした！***
 
 ## GitHubの使い方
-詳しい使い方やルールは[こちら](https://github.com/HackUOsaka/.github/blob/main/.github/README.md)
+詳しい使い方やルールは[こちら](https://github.com/lit-kansai-members-org/.github/blob/main/.github/README.md)
