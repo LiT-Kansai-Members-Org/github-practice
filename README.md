@@ -7,7 +7,7 @@ GitHubの使い方をマスターしよう
 自分のターミナルで下記のコマンドを実行
 
 ```
-$ git clone https://github.com/HackUOsaka/GitHub-practice.git
+$ git clone https://github.com/LiT-Kansai-Members-Org/github-practice.git
 ```
 
 上記を実行すると、このリポジトリが自分の環境に複製されます。
